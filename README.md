@@ -32,11 +32,7 @@ Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geopreygap&show_icons=true&theme=tokyonight" alt="Geoprey's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geopreygap&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&token=YOUR_TOKEN
 
 ---
 
@@ -59,7 +55,7 @@ Let's collaborate or just say hi!
 
 ---
 
-> “I thrive under pressure.”   - dinocornel
+> “I thrive under pressure. ”   - dinocornel
 > — My dev journey is just getting started!
 
 ---
