@@ -59,4 +59,5 @@ Let's collaborate or just say hi!
 
 ---
 ## CREDITS
-> [@MishManners](https://github.com/MishManners) 
+> Inspired by [@MishManners](https://github.com/MishManners)
+> [@noobgamingph](https://github.com/noobgamingph/noobgamingph)
