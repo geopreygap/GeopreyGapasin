@@ -59,4 +59,4 @@ Let's collaborate or just say hi!
 
 ---
 ## CREDITS
-MishManners®™ AKA the Hackathon Queen®™ FOR THE REPOSITORY
+> [@MishManners](https://github.com/MishManners) 
