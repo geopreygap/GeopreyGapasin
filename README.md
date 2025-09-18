@@ -10,8 +10,6 @@
 Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my Bachelor of Science in Information Technology (BSIT). 
 
 
-![Alt Text](https://giphy.com/gifs/sloth-boppin-3o85xoAqCYK8OLDfdC)
-
 ---
 
 ## 🛠️ Skills & Technologies
