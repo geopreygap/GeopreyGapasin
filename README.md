@@ -1,55 +1,19 @@
-## 📌 I'm Geoprey Gapasin
+## 🌎 HELLO WORLD! I'm Geoprey Gapasin.
 
-Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my Bachelor of Science in Information Technology (BSIT).
+📌 Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my Bachelor of Science in Information Technology (BSIT).
 🎓 4th Year BSIT Student at **Data Center College of the Philippines**  
 💻 Passionate about coding, web development, and continuously learning |❤️SHIRA-GAB-HUMPHREY ❤️| 🇵🇭 
-# Lorem Ipsum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.  
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-## Section Heading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharetra condimentum.
-
-- Lorem item 1
-- Lorem item 2
-- Lorem item 3
-
----
-
-## Another Section
-
-Sed cursus turpis vitae tortor.  
-Donec posuere vulputate arcu. Phasellus accumsan cursus velit.  
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
-
-```bash
-# Sample Code Block
-echo "Lorem ipsum dolor sit amet"
+📢 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my Bachelor of Science in Information Technology (BSIT). 
-
-
----
 
 ## 🛠️ Skills & Technologies
-
-### 👨‍💻 Programming Languages
+- 👨‍💻 Programming Languages
 ✔ Java ☕
 ✔ C++
 ✔ C#
-
-### 🌐 Web Development
+- 🌐 Web Development
 ✔ HTML
 ✔ CSS
 ✔ JavaScript
@@ -63,9 +27,9 @@ Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my 
 
 Let's collaborate or just say hi!
 
-- 📧 Email:gapasingeoprey@gmail.com
+- 📩 Email: gapasingeoprey@gmail.com
  
-- 🌐 Portfolio (coming soon!)
+-  Portfolio (coming soon!)
 
 ---
 
@@ -78,7 +42,7 @@ Let's collaborate or just say hi!
 
 ---
 
-*Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect.*
+*Thanks for visiting my GitHub profile! Come again!*
 
 
 ---
