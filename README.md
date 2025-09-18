@@ -1,4 +1,4 @@
-q43# 📌 Hello there! I'm Geoprey Gapasin
+## 📌 Hello there! I'm Geoprey Gapasin
 
 🎓 4th Year BSIT Student at **Data Center College of the Philippines**  
 💻 Passionate about coding, web development, and continuously learning |❤️SHIRA-GAB-HUMPHREY ❤️| 🇵🇭 
