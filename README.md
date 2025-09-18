@@ -35,7 +35,7 @@ Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my 
 
 Let's collaborate or just say hi!
 
-- 📧 Email: gapasingeoprey@gmail.com  
+- 📧 Email: 
  
 - 🌐 Portfolio (coming soon!)
 
