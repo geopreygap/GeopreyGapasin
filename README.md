@@ -17,15 +17,15 @@ Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my 
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
-- Java ☕
-- C++
-- C#
+✔ Java ☕
+✔ C++
+✔ C#
 
 ### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- Currently Exploring
+✔ HTML
+✔ CSS
+✔ JavaScript
+✔ Currently Exploring
 
 
 
@@ -35,7 +35,7 @@ Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my 
 
 Let's collaborate or just say hi!
 
-- 📧 Email: 
+- 📧 Email:gapasingeoprey@gmail.com
  
 - 🌐 Portfolio (coming soon!)
 
