@@ -50,14 +50,13 @@ Let's collaborate or just say hi!
 
 ---
 
-> “I thrive under pressure. ”   - dinocornel
-> — My dev journey is just getting started!
+*Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect.*
+
 
 ---
 
-*Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect.*
+> “I thrive under pressure. ”   - dinocornel
 
 ---
 ## CREDITS
-> Inspired by [@MishManners](https://github.com/MishManners)
-> [@noobgamingph](https://github.com/noobgamingph/noobgamingph)
+> Inspired by [@MishManners](https://github.com/MishManners) and [@noobgamingph](https://github.com/noobgamingph/noobgamingph)
