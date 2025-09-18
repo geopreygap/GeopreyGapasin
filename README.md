@@ -28,9 +28,6 @@ Hi! I'm **Geoprey Gapasin**, aspiring software engineer currently completing my 
 - Currently Exploring
 
 
----
-
-
 
 ---
 
@@ -59,3 +56,7 @@ Let's collaborate or just say hi!
 ---
 
 *Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect.*
+
+---
+## CREDITS
+MishManners®™ AKA the Hackathon Queen®™ FOR THE REPOSITORY
