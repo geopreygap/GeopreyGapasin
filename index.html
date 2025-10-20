@@ -1,1 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HopOn! - Get There Fast</title>
+  <meta name="description" content="HopOn! - A fast, safe, and affordable ride-hailing platform connecting riders, drivers, operators, and admins." />
+  <meta name="keywords" content="HopOn, ride hailing, transport, driver, operator, admin, Abra" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="IMG/logo.png" type="image/png" />
+  <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
 
+  <!-- ===== HEADER ===== -->
+  <header>
+    <h1>HopOn!</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="request.html">Book a Ride</a>
+
+      <div class="dropdown">
+        <a href="#" class="dropbtn">Login</a>
+        <div class="dropdown-content">
+          <a href="user/user-login.html">User Login</a>
+          <a href="driver/driver-login.html">Driver Login</a>
+          <a href="operator/operator-login.html">Operator Login</a>
+          <a href="admin/admin-login.html">Admin Login</a>
+        </div>
+      </div>
+
+      <div class="dropdown">
+        <a href="#" class="dropbtn">Sign Up</a>
+        <div class="dropdown-content">
+          <a href="user/user-register.html">User Sign Up</a>
+          <a href="driver/driver-register.html">Driver Sign Up</a>
+          <a href="operator/operator-register.html">Operator Sign Up</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+  
+
+  <!-- ===== HERO SECTION ===== -->
+  <section class="hero">
+    <h2>Welcome to HopOn!</h2>
+    <p><i>"Your reliable ride-hailing service. Quick. Safe. Affordable."</i></p>
+    <a href="request.html">
+      <button>Book a Ride Now</button>
+    </a>
+  </section>
+
+  <!-- ===== ABOUT SECTION ===== -->
+  <main>
+    <h2>About HopOn!</h2>
+    <p>
+      HopOn! is a modern, user-friendly ride-hailing platform built to make your travel
+      easier, faster, and safer. Whether you're commuting to work, heading to an event,
+      or exploring new places — HopOn! connects you to reliable drivers at your fingertips.
+    </p>
+
+    <p>
+      Founded with the goal of simplifying transportation in Abra and nearby areas,
+      HopOn! focuses on affordability, transparency, and customer trust. We believe
+      that every ride should be comfortable, accessible, and efficient — wherever you go.
+    </p>
+
+    <div class="mission-vision">
+      <div class="card">
+        <h3>Our Mission</h3>
+        <p>
+          To redefine local mobility by providing secure, efficient, and affordable ride solutions
+          that empower communities and connect people across the region.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Our Vision</h3>
+        <p>
+          To become the leading ride-hailing service in Northern Luzon — driven by technology,
+          trust, and a passion for making travel better for everyone.
+        </p>
+      </div>
+    </div>
+
+    <h3>Why Choose HopOn!</h3>
+    <ul style="margin-top: 1rem; line-height: 1.8;">
+      <li>🚗 Reliable and vetted drivers</li>
+      <li>💰 Transparent and fair pricing</li>
+      <li>📍 Real-time tracking (coming soon!)</li>
+      <li>⚡ Fast and easy booking process</li>
+      <li>💬 24/7 support for all customers</li>
+    </ul>
+  </main>
+
+  <!-- ROLE LINKS SECTION  -->
+  <section class="how-it-works-section">
+    <h2>Get Started with HopOn!</h2>
+    <p class="subtitle">Choose your role and start your journey</p>
+
+    <div class="how-it-works-container">
+      <!-- User Card -->
+      <a href="user/user-login.html" class="how-it-works-card">
+        <div class="icon-wrapper">
+          <i data-feather="user"></i>
+        </div>
+        <h3>User</h3>
+        <p>Book rides, track bookings, and manage your rides easily.</p>
+      </a>
+
+      <!-- Driver Card -->
+      <a href="driver/driver-login.html" class="how-it-works-card">
+        <div class="icon-wrapper">
+          <i data-feather="navigation"></i>
+        </div>
+        <h3>Driver</h3>
+        <p>Accept ride requests, track earnings, and manage your driving profile.</p>
+      </a>
+
+      <!-- Operator Card -->
+      <a href="operator/operator-login.html" class="how-it-works-card">
+        <div class="icon-wrapper">
+          <i data-feather="briefcase"></i>
+        </div>
+        <h3>Operator</h3>
+        <p>Manage drivers, vehicles, and ensure smooth ride operations.</p>
+      </a>
+
+      <!-- Admin Card -->
+      <a href="admin/admin-login.html" class="how-it-works-card">
+        <div class="icon-wrapper">
+          <i data-feather="shield"></i>
+        </div>
+        <h3>Admin</h3>
+        <p>Oversee users, drivers, bookings, and handle platform analytics.</p>
+      </a>
+    </div>
+  </section>
+
+
+  <!--FOOTER  -->
+  <footer>
+    <p>&copy; 2025 HopOn Inc.</p>
+    <div class="footer-links">
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="admin/admin-login.html">Admin</a>
+    </div>
+  </footer>
+
+  <!--  JS  -->
+  <script src="js/main.js"></script>
+  <script src="https://unpkg.com/feather-icons"></script>
+  <script>
+    feather.replace();
+  </script>
+</body>
+</html>

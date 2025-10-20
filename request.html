@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HopOn! - Get There Fast</title>
+  <meta name="description" content="HopOn! - A fast, safe, and affordable ride-hailing platform connecting riders, drivers, operators, and admins." />
+  <meta name="keywords" content="HopOn, ride hailing, transport, driver, operator, admin, Abra" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" href="IMG/logo.png" type="image/png" />
+  <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header>
+    <h1>HopOn!</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="request.html">Book a Ride</a>
+
+      <div class="dropdown">
+        <a href="#" class="dropbtn">Login</a>
+        <div class="dropdown-content">
+          <a href="user/user-login.html">User Login</a>
+          <a href="driver/driver-login.html">Driver Login</a>
+          <a href="operator/operator-login.html">Operator Login</a>
+          <a href="admin/admin-login.html">Admin Login</a>
+        </div>
+      </div>
+
+      <div class="dropdown">
+        <a href="#" class="dropbtn">Sign Up</a>
+        <div class="dropdown-content">
+          <a href="user/user-register.html">User Sign Up</a>
+          <a href="driver/driver-register.html">Driver Sign Up</a>
+          <a href="operator/operator-register.html">Operator Sign Up</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+<section class="map-section">
+  <h2>HopOn! Book a Ride Now</h2>
+  <iframe
+    id="mapFrame"
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387339.1769770266!2d120.54396744134065!3d17.591265379193465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x338eb03c5d54062f%3A0xa00f4230c27f630!2sAbra%2C%20Philippines!5e0!3m2!1sen!2sph!4v1728548816433!5m2!1sen!2sph"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+    <div class="map-inputs">
+    <input type="text" id="pickup" placeholder="Enter pickup location (within Abra)" />
+    <input type="text" id="destination" placeholder="Enter destination (within Abra)" />
+    <button onclick="showMockRoute()">Show Route</button>
+  </div>
+</section>
+
+<script>
+  function showMockRoute() {
+    const pickupInput = document.getElementById("pickup");
+    const destinationInput = document.getElementById("destination");
+    const iframe = document.getElementById("mapFrame");
+
+    const pickup = pickupInput.value.trim();
+    const destination = destinationInput.value.trim();
+
+    if (!pickup || !destination) {
+      alert("Please enter both pickup and destination within Abra.");
+      return;
+    }
+
+    // Automatically add "Abra, Philippines" to both
+    const origin = encodeURIComponent(`${pickup}, Abra, Philippines`);
+    const dest = encodeURIComponent(`${destination}, Abra, Philippines`);
+
+    // Update the map iframe to show a simulated route
+    iframe.src = `https://www.google.com/maps/embed/v1/directions?origin=${origin}&destination=${dest}&key=AIzaSyDUMMYKEY`;
+
+    // ✅ Clear input fields after showing route
+    pickupInput.value = "";
+    destinationInput.value = "";
+  }
+</script>
+
+
+
+ <footer>
+    <p>&copy; 2025 HopOn Inc.</p>
+    <div class="footer-links">
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="admin/admin-login.html">Admin</a>
+    </div>
+  </footer>
+
+  <!-- ===== JS ===== -->
+  <script src="js/main.js"></script>
+  <script src="https://unpkg.com/feather-icons"></script>
+  <script>
+    feather.replace();
+  </script>
+</body>
+</html>
